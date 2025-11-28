@@ -44,7 +44,8 @@ plot(fw2);
 
 ## OUTPUT:
 
-![auto](https://github.com/user-attachments/assets/51bf9d9d-66ed-4be4-8083-016aaf8c3b97)
+![WhatsApp Image 2025-11-28 at 9 56 28 AM](https://github.com/user-attachments/assets/27811277-b4f1-4adf-87d8-ace632bd2a03)
+
 
 ## RESULT: 
 
