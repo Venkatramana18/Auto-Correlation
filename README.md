@@ -24,13 +24,17 @@ PROCEDURE
 • Refer Algorithms and write code for the experiment. • Open SCILAB in System • Type your code in New Editor • Save the file • Execute the code • If any Error, correct it in code and execute again • Verify the generated waveform using Tabulation and Model Waveform
 
 ## PROGRAM:
+<img width="1918" height="1103" alt="image" src="https://github.com/user-attachments/assets/5262427e-4f28-4a27-bc2e-b4dffe3bae68" />
 
-<img width="1600" height="996" alt="WhatsApp Image 2026-05-28 at 22 07 50" src="https://github.com/user-attachments/assets/50dbada3-d376-490c-9413-4c1a260c8503" />
+
 
 
 ## OUTPUT:
+<img width="1918" height="1115" alt="image" src="https://github.com/user-attachments/assets/28a816f6-b181-4b85-9082-603a575c31d0" />
+<img width="1144" height="896" alt="WhatsApp Image 2026-06-08 at 10 47 36 AM (10)" src="https://github.com/user-attachments/assets/44071f2e-f027-4f73-b1e2-1a585642719f" />
 
-<img width="1600" height="913" alt="WhatsApp Image 2026-05-28 at 22 08 34" src="https://github.com/user-attachments/assets/c449828d-c64d-4561-be65-3f5d8f580fc8" />
+
+
 
 ## RESULT: 
 
